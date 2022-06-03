@@ -1,0 +1,2 @@
+#!/bin/bash
+git add . && git commit -m  "dfs" && git push origin master
